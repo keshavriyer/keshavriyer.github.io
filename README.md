@@ -1,11 +1,5 @@
 
 <head>
-<style> 
-img{
-  border-radius: 50%
-}
-
-</style>
 
 </head>
 <body><h1>This is me</h1>
